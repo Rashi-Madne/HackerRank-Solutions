@@ -1,5 +1,4 @@
 # HackerRank-Solutions
-# HackerRank Solutions
 
 A collection of my solutions to coding challenges on HackerRank as I develop my Python programming, problem-solving, and SQL skills.
 
